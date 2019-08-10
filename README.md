@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Link](url) and ![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
 ```markdown
 Syntax highlighted code block
 
