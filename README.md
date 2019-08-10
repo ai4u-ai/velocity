@@ -1,4 +1,6 @@
-## Welcome to Velocity[Link](http://www.velocity.lu/) by AI4U ![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
+## Welcome to [Velocity](http://www.velocity.lu/) by AI4U
+
+![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
 
 You can use the [editor on GitHub](https://github.com/ai4u-ai/velocity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
