@@ -1,6 +1,6 @@
 ## Welcome to [Velocity](http://www.velocity.lu/) by AI4U
 
-![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
+![Image](assets/ForWhiteBackgroundsm.png)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Ap95BLfSb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -9,8 +9,8 @@ You can use the [editor on GitHub](https://github.com/ai4u-ai/velocity/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [First Run](CONTRIBUTING.md) 
-
+### [First Run](FIRTSRUN.md) 
+ 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
