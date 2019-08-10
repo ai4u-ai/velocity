@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/ai4u-ai/velocity/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [First Run](CONTRIBUTING.md) 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
