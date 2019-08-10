@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Velocity[Link](http://www.velocity.lu/) by AI4U ![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
 
 You can use the [editor on GitHub](https://github.com/ai4u-ai/velocity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[Link](url) and ![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
+
 ```markdown
 Syntax highlighted code block
 
