@@ -11,3 +11,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+title: [Manage deep learning life cycle]
+description: [Velocity by AI4U is a tool to manage the full life cycle of deep learning]
+logo: [http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png]
