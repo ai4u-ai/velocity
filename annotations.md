@@ -10,15 +10,19 @@ You can select where the time line starts and stops by dragging the bullets on t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c0raJWTfUV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Use media folder:
+## Annotate:
 
-All media is stored under ~/media folder. You can add media to the media folder using ftp or cli and it will be injected into velocity.
-You can add additional media folders by clicking on media folders edit.
+Click on play on one of the time lines. Draw a box with your mouse on the screen. Follow the object you are annotating by dragging the square with your mouse.
+The annotations will appear in the Annotations window. You can scroll down in the annotations window. You can delete an annotation that does not appear to be good.
+Occasionally save and delete the annotations.  
 
-![Image](assets/2019-09-01_09-39-53.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkvdCwNqlx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Fill in the path to the folder and click save changes.
 
-![Image](assets/2019-09-01_09-42-04.png)
+## Manage Annotations:
 
-All the media files will be injected into velocity and you will be able to use them.
+You can manage all the annotations in the annotations module. Select an annotations collection to see all the annotations. When clicking on one of the annotations the video player will show the exect time frames
+and a red square will appear on the exact place the annotation is made. You can delete an annotation by clicking on the delete button in the annotation. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0S-PW-yJQ_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
