@@ -10,11 +10,11 @@ Do not forget to change your password:
 
 ## Use media folder:
 
-Fill in the fields and click submit
+All media is stored under ~/media folder. You can add media to the media folder using ftp or cli and it will be injected into velocity.
+You can add additional media folders by clicking on media folders edit.
 
-![Image](assets/2019-08-10_13-52-13.png)
+![Image](assets/2019-09-01_09-39-53.png)
 
+Fill in the path to the folder and click save changes
 
-
-
-You can now login
+![Image](assets/2019-09-01_09-42-04.png)
