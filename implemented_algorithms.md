@@ -1,3 +1,5 @@
+Currently configured and ready to use classification and object detection algorithms:
+
 ```markdown
 VGG16
 VGG19
