@@ -13,5 +13,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 title: [Velocity]
 description: [Velocity by AI4U is a tool to manage the full life cycle of deep learning]
-logo: ForWhiteBackgroundsm.png
+logo: assets/ForWhiteBackgroundsm.png
 
