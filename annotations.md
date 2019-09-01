@@ -1,11 +1,13 @@
-## Navigate to Upload Menu:
+## Create Labels:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3vcLwGLvdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cq02W8wq33w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Image](assets/2019-08-10_13-41-33.png)
 
-Do not forget to change your password:
-![Image](assets/2019-08-10_13-47-57_02.png)
+## Create Time Lines:
+Time lines are parts of the video that you want to use during annotation. The video player will play all the time lines according their order.
+You can select where the time line starts and stops by dragging the bullets on the time line. Use the play and stop button.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c0raJWTfUV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Use media folder:

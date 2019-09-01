@@ -71,24 +71,8 @@ You can [upload media](MEDIA.md)  using the web interface or indicate a path whe
 You can than mount a bucket to that path.
 
 ### [Create Annotations](annotations.md) 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](http://www.velocity.lu/assets/frontend/onepage/img/logo/ForWhiteBackgroundsm.png)
-```
+To train an algorithm you need annotated data. Every image needs to have a label associated to it. So that the algorithm learns to mapping between the image and the label. Labeling images is a labour intensive task.
+Out tool permits you to create annotations while the video is running. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
