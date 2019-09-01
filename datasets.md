@@ -17,4 +17,4 @@ You are able as well to just download the transformed data set and use it.
 
 ## Transform size and train validate split:
 You can indicate if you wish to transform the size of the images in the data set. The train validation split can be indicated as a percentage. Velocity will do the needed conversions and splitting and will
-produce the data set at the destination path indicated in the details. 
+produce the data set at the destination path indicated in the details. You can download it from there or mount this path to a bucket or your local file system.
