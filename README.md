@@ -3,7 +3,8 @@
 ![Image](assets/ForWhiteBackgroundsm.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hqdWCp-fFNY&t=20s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hqdWCp-fFNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can use the [editor on GitHub](https://github.com/ai4u-ai/velocity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
