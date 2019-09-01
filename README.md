@@ -31,8 +31,9 @@ combine multiple data sets into one again just by dragging and dropping.
 
 
 
-### Train an algorithm
+### [Train an algorithm](trainalgorithm.md)
 
 Choose one of the [implemented algorithms](implemented_algorithms.md) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCyStxDjVX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bbxKzSOaHdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
