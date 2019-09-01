@@ -65,10 +65,12 @@ mask_rcnn_resnet50_atrous_coco
  
 Login and create an account
 
-### [Upload Media](FIRTSRUN.md) 
+### [Upload Media](MEDIA.md) 
  
-You can upload media using the web interface or indicate a path where your media files are on the server. 
+You can [upload media](MEDIA.md)  using the web interface or indicate a path where your media files are on the server. 
 You can than mount a bucket to that path.
+
+### [Create Annotations](annotations.md) 
 
 ```markdown
 Syntax highlighted code block

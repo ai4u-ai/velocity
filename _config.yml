@@ -6,7 +6,7 @@ include:
   - FIRSTRUN.md
   - README.md
   - MEDIA.md
-  - COPYING.md
+  - annotations.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
