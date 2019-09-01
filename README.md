@@ -20,8 +20,8 @@ You can [upload media](MEDIA.md)  using the web interface or indicate a path whe
 You can than mount a bucket to that path.
 
 ### [Create Annotations](annotations.md) 
-To train an algorithm you need annotated data. Every image needs to have a label associated to it. So that the algorithm learns to mapping between the image and the label. Labeling images is a labour intensive task.
-Out tool permits you to create annotations while the video is running. 
+To train an algorithm you need [annotated data](annotations.md). Every image needs to have a label associated to it. So that the algorithm learns to mapping between the image and the label. Labeling images is a labour intensive task.
+Out tool permits you to [create annotations while the video is running](annotations.md)). 
 
 
 
