@@ -15,6 +15,8 @@ You can add additional media folders by clicking on media folders edit.
 
 ![Image](assets/2019-09-01_09-39-53.png)
 
-Fill in the path to the folder and click save changes
+Fill in the path to the folder and click save changes.
 
 ![Image](assets/2019-09-01_09-42-04.png)
+
+All the media files will be injected into velocity and you will be able to use them.

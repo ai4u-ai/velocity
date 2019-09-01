@@ -61,7 +61,7 @@ mask_rcnn_inception_v2_coco
 mask_rcnn_resnet101_atrous_coco
 mask_rcnn_resnet50_atrous_coco
 ```
-### [First Run](FIRTSRUN.md) 
+### [First Login](FIRTSRUN.md) 
  
 Login and create an account
 
