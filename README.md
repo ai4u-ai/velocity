@@ -7,60 +7,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hqdWCp-fFNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Use Velocity to manage the full life cycle of deep learning. Annotate and manage data sets, Convert Data Sets, continuously train and optimise custom algorithms. 
-Velocity comes with over 40 computer vision deep learning algorithms for classification and object detection. You are able to go from idea to trained algorithm within in days. No coding needed just
-choose one of out of the box configured algorithms and start training:
-```markdown
-VGG16
-VGG19
-ResNet50
-ResNet101
-ResNet152
-ResNet50V2
-ResNet101V2
-ResNet152V2
-ResNeXt50
-ResNeXt101
-InceptionV3
-InceptionResNetV2
-Xception
-MobileNet(alpha=0.25)
-MobileNet(alpha=0.50)
-MobileNet(alpha=0.75)
-MobileNet(alpha=1.0)
-MobileNetV2(alpha=0.35)
-MobileNetV2(alpha=0.50)
-MobileNetV2(alpha=0.75)
-MobileNetV2(alpha=1.0)
-MobileNetV2(alpha=1.3)
-MobileNetV2(alpha=1.4)
-DenseNet121
-DenseNet169
-DenseNet201
-NASNetLarge
-NASNetMobile
-ssd_mobilenet_v1_coco
-ssd_mobilenet_v1_0.75_depth_coco
-ssd_mobilenet_v1_quantized_coco
-ssd_mobilenet_v1_0.75_depth_quantized_coco
-ssd_mobilenet_v1_ppn_coco
-ssd_mobilenet_v1_fpn_coco
-ssd_resnet_50_fpn_coco
-ssd_mobilenet_v2_coco
-ssd_mobilenet_v2_quantized_coco
-ssdlite_mobilenet_v2_coco
-ssd_inception_v2_coco
-faster_rcnn_inception_v2_coco
-faster_rcnn_resnet50_coco
-faster_rcnn_resnet50_lowproposals_coco
-rfcn_resnet101_coco, faster_rcnn_resnet101_coco
-faster_rcnn_resnet101_lowproposals_coco 
-faster_rcnn_inception_resnet_v2_atrous_coco 
-faster_rcnn_inception_resnet_v2_atrous_lowproposals_coco
-faster_rcnn_nas
-mask_rcnn_inception_v2_coco
-mask_rcnn_resnet101_atrous_coco
-mask_rcnn_resnet50_atrous_coco
-```
+Velocity comes with over [40 computer vision deep learning algorithms for classification and object detection](Fimplemented_algorithms.md)  . You are able to go from idea to trained algorithm within in days. No coding needed just
+choose one of out of the box configured algorithms and start training.
+
 ### [First Login](FIRTSRUN.md) 
  
 Login and create an account
@@ -74,7 +23,7 @@ You can than mount a bucket to that path.
 To train an algorithm you need annotated data. Every image needs to have a label associated to it. So that the algorithm learns to mapping between the image and the label. Labeling images is a labour intensive task.
 Out tool permits you to create annotations while the video is running. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 

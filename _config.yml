@@ -11,6 +11,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - implemented_algorithms.md
 title: [Velocity]
 description: [Velocity by AI4U is a tool to manage the full life cycle of deep learning]
 logo: assets/ForWhiteBackgroundsm.png
