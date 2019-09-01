@@ -3,7 +3,7 @@
 ![Image](assets/ForWhiteBackgroundsm.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Ap95BLfSb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hqdWCp-fFNY&t=20s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can use the [editor on GitHub](https://github.com/ai4u-ai/velocity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### [First Run](FIRTSRUN.md) 
  
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Login and create an account
+
+### [Upload Media](FIRTSRUN.md) 
+ 
+You can upload media using the web interface or indicate a path where your media files are on the server. 
+You can than mount a bucket to that path.
 
 ```markdown
 Syntax highlighted code block
