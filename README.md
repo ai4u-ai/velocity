@@ -11,9 +11,9 @@ Velocity comes with over [40 computer vision deep learning algorithms for classi
 choose one of out of the box configured algorithms and start training.
 
 ### [First Login](FIRTSRUN.md) 
- 
-Login and create an account
-
+Velocity is running on port 3000. When you access the first time http://your_ip_or_domain:3000  you will be redirected to the login page. 
+[Create an account or login as demo user](FIRTSRUN.md) 
+You can have limitless users on velocity. All of the artifacts of a user are not shared with other users. 
 ### [Upload Media](MEDIA.md) 
  
 You can [upload media](MEDIA.md)  using the web interface or indicate a path where your media files are on the server. 
