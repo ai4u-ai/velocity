@@ -12,7 +12,7 @@ choose one of out of the box configured algorithms and start training.
 
 ### [First Login](FIRTSRUN.md) 
 Velocity is running on port 3000. When you access the first time http://your_ip_or_domain:3000  you will be redirected to the login page. 
-[Create an account or login as demo user](FIRTSRUN.md) 
+[Create an account or login as demo user.](FIRTSRUN.md) 
 You can have limitless users on velocity. All of the artifacts of a user are not shared with other users. 
 ### [Upload Media](MEDIA.md) 
  
@@ -25,9 +25,15 @@ Out tool permits you to [create annotations while the video is running](annotati
 
 
 
-### Jekyll Themes
+### Create Data Sets
+You can use multiple annotation collections to create a data set. We have created a tool that permits you to do that by [dragging and dropping annotation collections](datasets.md). In the same tool you can 
+combine multiple data sets into one again just by dragging and dropping.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai4u-ai/velocity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Different algorithms need a different type of data format and annotation. For instance a classification algorithm take the full image as an input and provides the probability of a class as a prediction.
+An object detection algorithm will predict not only the class but the bounding box of this class. Our tool permits you to transform your annotations to both use cases.
+You are able as well to just download the transformed data set and use it. The tool will inform you during the creation of the data set how many labels there are and how many annotations per label.
+This is important as you don't want you data to be unbalanced. Make sure that you have similar amount of annotations per class.
+
 
 ### Support or Contact
 
