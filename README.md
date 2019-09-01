@@ -7,7 +7,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hqdWCp-fFNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Use Velocity to manage the full life cycle of deep learning. Annotate and manage data sets, Convert Data Sets, continuously train and optimise custom algorithms. 
-Velocity comes with over [40 computer vision deep learning algorithms for classification and object detection](Fimplemented_algorithms.md)  . You are able to go from idea to trained algorithm within in days. No coding needed just
+Velocity comes with over [40 computer vision deep learning algorithms for classification and object detection](implemented_algorithms.md)  . You are able to go from idea to trained algorithm within in days. No coding needed just
 choose one of out of the box configured algorithms and start training.
 
 ### [First Login](FIRTSRUN.md) 
