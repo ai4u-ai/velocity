@@ -29,10 +29,6 @@ Out tool permits you to [create annotations while the video is running](annotati
 You can use multiple annotation collections to create a data set. We have created a tool that permits you to do that by [dragging and dropping annotation collections](datasets.md). In the same tool you can 
 combine multiple data sets into one again just by dragging and dropping.
 
-Different algorithms need a different type of data format and annotation. For instance a classification algorithm take the full image as an input and provides the probability of a class as a prediction.
-An object detection algorithm will predict not only the class but the bounding box of this class. Our tool permits you to transform your annotations to both use cases.
-You are able as well to just download the transformed data set and use it. The tool will inform you during the creation of the data set how many labels there are and how many annotations per label.
-This is important as you don't want you data to be unbalanced. Make sure that you have similar amount of annotations per class.
 
 
 ### Support or Contact
