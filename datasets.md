@@ -7,27 +7,14 @@ This is important as you don't want you data to be unbalanced. Make sure that yo
 
 ## Transform data sets:
 
-
 Different algorithms need a different type of data format and annotation. For instance a classification algorithm take the full image as an input and provides the probability of a class as a prediction.
 An object detection algorithm will predict not only the class but the bounding box of this class. Our tool permits you to transform your annotations to both use cases.
 You are able as well to just download the transformed data set and use it. 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_UQagNYNses" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Annotate:
-
-Click on play on one of the time lines. Draw a box with your mouse on the screen. Follow the object you are annotating by dragging the square with your mouse.
-The annotations will appear in the Annotations window. You can scroll down in the annotations window. You can delete an annotation that does not appear to be good.
-Occasionally save and delete the annotations.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qkvdCwNqlx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-## Manage Annotations:
-
-You can manage all the annotations in the annotations module. Select an annotations collection to see all the annotations. When clicking on one of the annotations the video player will show the exect time frames
-and a red square will appear on the exact place the annotation is made. You can delete an annotation by clicking on the delete button in the annotation. 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0S-PW-yJQ_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Transform size and train validate split:
+You can indicate if you wish to transform the size of the images in the data set. The train validation split can be indicated as a percentage. Velocity will do the needed conversions and splitting and will
+produce the data set at the destination path indicated in the details. 
